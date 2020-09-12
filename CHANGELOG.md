@@ -4,6 +4,9 @@
 **Added**
 - Configuration errors are reported in the console and/or in Jupyter (#613)
 
+**Changed**
+- The documentation was reorganized. README.md is now a copy of docs/index.md, with many links to the documentation.
+
 **Fixed**
 - Freeze optional dependency on `sphinx-gallery` to version `~=0.7.0` (#614)
 - Jupytext's contents manager can be used with `jupyterfs` (#618)
